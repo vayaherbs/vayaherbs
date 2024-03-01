@@ -11,6 +11,10 @@ enableEmoji = true
 [markup.highlight]
 noClasses = false
 
+[params.navigation]
+#other stuff
+logo = "logo.png"
+
 [params]
 author = "Центр збору, переробки та реалізації дикоросів"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
