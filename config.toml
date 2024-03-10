@@ -1,8 +1,8 @@
-baseURL = "https://vaya.com"
+baseURL = "https://vayaherbs.com"
 title = "Центр збору, переробки та реалізації дикоросів"
 author = "vaya"
-# languageCode = "us"
-# DefaultContentLanguage = "en"
+languageCode = "ua"
+DefaultContentLanguage = "ua"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
