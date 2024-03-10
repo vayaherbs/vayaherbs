@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Центр збору, переробки та реалізації дикоросів</title>
-    <link>http://localhost:34661/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Центр збору, переробки та реалізації дикоросів</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ua</language>
     <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
-    <atom:link href="http://localhost:34661/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Закарпатський Фонд Підтримки Підприємства</title>
-      <link>http://localhost:34661/partners/tes/</link>
+      <link>http://localhost:1313/partners/tes/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>http://localhost:34661/partners/tes/</guid>
+      <guid>http://localhost:1313/partners/tes/</guid>
       <description></description>
     </item>
     <item>
       <title>Зніт вузьколистий</title>
-      <link>http://localhost:34661/products/%D0%B7%D0%BD%D1%96%D1%82/</link>
+      <link>http://localhost:1313/products/%D0%B7%D0%BD%D1%96%D1%82/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>http://localhost:34661/products/%D0%B7%D0%BD%D1%96%D1%82/</guid>
+      <guid>http://localhost:1313/products/%D0%B7%D0%BD%D1%96%D1%82/</guid>
       <description>Трав&amp;rsquo;яниста рослина заввишки 50-150 см, з товстим повзучим кореневищем, що має додаткові бруньки. Кореневища сягають 1 метра в довжину і більше, особливо в затінених місцях, де він менше цвіте.[3] Стебло прямостояче, циліндричне, слаборозгалужене, голе, густо улиснене. Листки чергові, сидячі або на дуже коротких чершках, ланцетні, середніх розмірів (50-120 мм завдовжки, 7-20 мм завширшки), загострені, майже цілокраї, зверху темно-зелені, зісподу світло-зелені, матові. Жилки добре помітні.&#xA;Суцвіття — верхівкова китиця завдовжки 10-15 см.</description>
     </item>
     <item>
       <title>Великолучківська територіальна громада</title>
-      <link>http://localhost:34661/partners/vtg/</link>
+      <link>http://localhost:1313/partners/vtg/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>http://localhost:34661/partners/vtg/</guid>
+      <guid>http://localhost:1313/partners/vtg/</guid>
       <description></description>
     </item>
     <item>
       <title>Мери за економічне зростання</title>
-      <link>http://localhost:34661/partners/undp/</link>
+      <link>http://localhost:1313/partners/undp/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>http://localhost:34661/partners/undp/</guid>
+      <guid>http://localhost:1313/partners/undp/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:34661/blog/markdown-syntax/</link>
+      <link>http://localhost:1313/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34661/blog/markdown-syntax/</guid>
+      <guid>http://localhost:1313/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:34661/blog/rich-content/</link>
+      <link>http://localhost:1313/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34661/blog/rich-content/</guid>
+      <guid>http://localhost:1313/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:34661/blog/placeholder-text/</link>
+      <link>http://localhost:1313/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34661/blog/placeholder-text/</guid>
+      <guid>http://localhost:1313/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:34661/blog/math-typesetting/</link>
+      <link>http://localhost:1313/blog/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34661/blog/math-typesetting/</guid>
+      <guid>http://localhost:1313/blog/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:34661/blog/emoji-support/</link>
+      <link>http://localhost:1313/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34661/blog/emoji-support/</guid>
+      <guid>http://localhost:1313/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Про нас</title>
-      <link>http://localhost:34661/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34661/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>ЦЕНТР ЗБОРУ, ПЕРЕРОБКИ ТА РЕАЛІЗАЦІЇ ДИКОРОСІВ — створено Закарпатським фондом підтримки підприємництва «ТЕС Фонд» у рамках виконання грантового проекту &amp;ldquo;Підвищення економічної активності та покращення туристичної привабливості Великолучківської територіальної громади шляхом заснування “Центру збору, переробки та реалізації дикоросів&amp;rdquo;, номер грантової угоди № M4EG-RRP-LVGA-2023-10, що реалізується за підтримки Спільної ініціативи Європейського Союзу та Програми розвитку ООН «Мери за економічне зростання».&#xA;Війна в Україні спричинила погіршення і без того тяжкої соціально-економічної ситуації як у державі в цілому, так і у Закарпатські області зокрема.</description>
     </item>
     <item>
       <title>Контакти</title>
-      <link>http://localhost:34661/contacts/</link>
+      <link>http://localhost:1313/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:34661/contacts/</guid>
+      <guid>http://localhost:1313/contacts/</guid>
       <description>Центр збору, переробки та реалізації дикоросів Адреса:&#xA;Закарпатська область,&#xA;Великолучківська територіальна громада,&#xA;с. Бенедиківці,&#xA;вул.Бенедиківська, 2.&#xA;тел. +380506124789</description>
     </item>
   </channel>
