@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Продукти on Центр збору, переробки та реалізації дикоросів</title>
-    <link>http://localhost:1313/products/</link>
+    <link>http://localhost:34661/products/</link>
     <description>Recent content in Продукти on Центр збору, переробки та реалізації дикоросів</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ua</language>
     <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:34661/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Зніт вузьколистий</title>
-      <link>http://localhost:1313/products/%D0%B7%D0%BD%D1%96%D1%82/</link>
+      <link>http://localhost:34661/products/%D0%B7%D0%BD%D1%96%D1%82/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>http://localhost:1313/products/%D0%B7%D0%BD%D1%96%D1%82/</guid>
+      <guid>http://localhost:34661/products/%D0%B7%D0%BD%D1%96%D1%82/</guid>
       <description>Трав&amp;rsquo;яниста рослина заввишки 50-150 см, з товстим повзучим кореневищем, що має додаткові бруньки. Кореневища сягають 1 метра в довжину і більше, особливо в затінених місцях, де він менше цвіте.[3] Стебло прямостояче, циліндричне, слаборозгалужене, голе, густо улиснене. Листки чергові, сидячі або на дуже коротких чершках, ланцетні, середніх розмірів (50-120 мм завдовжки, 7-20 мм завширшки), загострені, майже цілокраї, зверху темно-зелені, зісподу світло-зелені, матові. Жилки добре помітні.&#xA;Суцвіття — верхівкова китиця завдовжки 10-15 см.</description>
     </item>
   </channel>
