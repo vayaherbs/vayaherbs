@@ -1,8 +1,8 @@
 baseURL = "https://vaya.com"
 title = "Центр збору, переробки та реалізації дикоросів"
 author = "username"
-languageCode = "ua"
-DefaultContentLanguage = "ua"
+languageCode = "en"
+DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
