@@ -1,26 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vayaherbs</title>
+    <title>Центр збору, переробки та реалізації дикоросів</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on vayaherbs</description>
+    <description>Recent content on Центр збору, переробки та реалізації дикоросів</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ua</language>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Переваги</title>
-      <link>http://localhost:1313/posts/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%B3%D0%B8/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%B3%D0%B8/</guid>
-      <description>Основними перевагами проєкту є: Link to heading Ключові заходи проєкту спрямовані на ефективне використання природних ресурсів, шляхом ведення підприємницької діяльності; Проєкт містить також навчальний компонент із різних напрямків ведення бізнесу для персоналу та менеджменту Центру; Соціальним компонентом проєкту є спільні заходи для різних груп жінок та чоловіків із числа місцевого населення та ВПО, в тому числі під час роботи на підприємстві та участі у культурних заходах. Щодо процесу збору дикоросів, то мотивація для місцевого населення та ВПО буде наступна - участь у тренінгу з підготовки бригад до збору у горах та на рівнинах; участь у виїзді у мальовничі місця Закарпаття для туризму та збору дикоросів; можливість частину врожаю забрати собі, а також переробити у новоствореному Центрі; Результати імплементації розробленого проєкту можуть бути використані для реплікації у різних регіонах України, особливо там, де є висока туристична привабливість та потенціал розвитку туризму; Результати проєкту можуть бути масштабовані, а напрямки роботи Центру –розширені, наприклад, потенційно у майбутньому можливо буде додати вирощування, збір, переробку та реалізацію лікарських трав.</description>
+      <title>Закарпатський Фонд Підтримки Підприємства</title>
+      <link>http://localhost:1313/partners/tes/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/partners/tes/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Бенефіціари</title>
-      <link>http://localhost:1313/posts/%D0%B1%D0%B5%D0%BD%D0%B5%D1%84%D1%96%D1%86%D1%96%D0%B0%D1%80%D0%B8/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%D0%B1%D0%B5%D0%BD%D0%B5%D1%84%D1%96%D1%86%D1%96%D0%B0%D1%80%D0%B8/</guid>
-      <description>Прямі бенефіціари Link to heading Група 1 – Не менше 160 осіб із урахуванням пропорційного представництва жінок і чоловіків серед ВПО та мешканців громади, які візьмуть участь у навчальних заходах (тренінгах, воркшопах, семінарах тощо) для команди Центру, партнерів і учасників/-иць проєкту. Група 2 – Не менше 100 осіб із урахуванням пропорційного представництва жінок і чоловіків серед ВПО та місцевого населення (30 ВПО та 70 мешканців громади), які будуть залучені до заходів із збору дикоросів.</description>
+      <title>Зніт вузьколистий</title>
+      <link>http://localhost:1313/products/%D0%B7%D0%BD%D1%96%D1%82/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/%D0%B7%D0%BD%D1%96%D1%82/</guid>
+      <description>Трав&amp;rsquo;яниста рослина заввишки 50-150 см, з товстим повзучим кореневищем, що має додаткові бруньки. Кореневища сягають 1 метра в довжину і більше, особливо в затінених місцях, де він менше цвіте.[3] Стебло прямостояче, циліндричне, слаборозгалужене, голе, густо улиснене. Листки чергові, сидячі або на дуже коротких чершках, ланцетні, середніх розмірів (50-120 мм завдовжки, 7-20 мм завширшки), загострені, майже цілокраї, зверху темно-зелені, зісподу світло-зелені, матові. Жилки добре помітні.&#xA;Суцвіття — верхівкова китиця завдовжки 10-15 см.</description>
+    </item>
+    <item>
+      <title>Великолучківська територіальна громада</title>
+      <link>http://localhost:1313/partners/vtg/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/partners/vtg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Мери за економічне зростання</title>
+      <link>http://localhost:1313/partners/undp/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/partners/undp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/blog/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Про нас</title>
@@ -34,21 +83,7 @@
       <link>http://localhost:1313/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contacts/</guid>
-      <description>Центр збору, переробки та реалізації дикоросів Link to heading Адреса:&#xA;Закарпатська область,&#xA;Великолучківська територіальна громада,&#xA;с. Бенедиківці,&#xA;вул.Бенедиківська, 2.&#xA;тел. +380506124789</description>
-    </item>
-    <item>
-      <title>Партнери</title>
-      <link>http://localhost:1313/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/partners/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Продукти</title>
-      <link>http://localhost:1313/products/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/</guid>
-      <description>1 крок. Link to heading Проведення капітального ремонту приміщення для заснування Центру&#xA;2 крок. Link to heading Облаштування приміщення Центру&#xA;3 крок. Link to heading Укладання контрактів з працівниками/-цями Центру&#xA;4 крок. Link to heading Організація та проведення семінарів щодо збору дикоросів для учасників/-иць проєкту&#xA;5 крок. Link to heading Проведення навчальних заходів (тренінгів, семінарів, воркшопів тощо) для команди Центру та представників/-иць партнерів&#xA;6 крок. Link to heading Організація збору дикоросів (пасажирські та вантажні перевезення)</description>
+      <description>Центр збору, переробки та реалізації дикоросів Адреса:&#xA;Закарпатська область,&#xA;Великолучківська територіальна громада,&#xA;с. Бенедиківці,&#xA;вул.Бенедиківська, 2.&#xA;тел. +380506124789</description>
     </item>
   </channel>
 </rss>

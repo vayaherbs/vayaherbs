@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Партнери on Центр збору, переробки та реалізації дикоросів</title>
+    <link>http://localhost:1313/partners/</link>
+    <description>Recent content in Партнери on Центр збору, переробки та реалізації дикоросів</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Закарпатський Фонд Підтримки Підприємства</title>
+      <link>http://localhost:1313/partners/tes/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/partners/tes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Великолучківська територіальна громада</title>
+      <link>http://localhost:1313/partners/vtg/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/partners/vtg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Мери за економічне зростання</title>
+      <link>http://localhost:1313/partners/undp/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/partners/undp/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
