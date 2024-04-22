@@ -1,11 +1,59 @@
 [
   {
     "title": "Склони гори Маковиця",
-    "image": "img/slide/01.slide.jpg"
+    "image": "img/slide/01-slide.jpg"
   },
+
+  {
+    "title": "Горганське високогір'я",
+    "image": "img/slide/02-slide.jpg",
+    "color": "text-black"
+  },
+
   {
     "title": "Збір трав в гірській місцевосці",
-    "image": "img/slide/02.slide.jpg",
+    "image": "img/slide/03-slide.jpg",
     "color": "text-black"
+  },
+
+  {
+    "title": "Полонини Карпат",
+    "image": "img/slide/04-slide.jpg",
+    "color": "text-black"
+  },
+
+  {
+    "title": "Недоторкана природа",
+    "image": "img/slide/05-slide.jpg",
+    "color": "text-black"
+  },
+
+  {
+    "title": "Греготи та цокоти Горган",
+    "image": "img/slide/06-slide.jpg"
+  },
+
+  {
+    "title": "Збір трав в гірській місцевосці",
+    "image": "img/slide/07-slide.jpg",
+    "color": "text-black"
+  },
+
+  {
+    "title": "Полонинське високогір'я",
+    "image": "img/slide/08-slide.jpg",
+    "color": "text-black"
+  },
+
+  {
+    "title": "Екологічно чисті місця",
+    "image": "img/slide/09-slide.jpg",
+    "color": "text-black"
+  },
+
+  {
+    "title": "Енергія Карпат",
+    "image": "img/slide/10-slide.jpg"
   }
+
 ]

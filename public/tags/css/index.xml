@@ -6,14 +6,21 @@
     <description>Recent content in Css on Центр збору, переробки та реалізації дикоросів</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ua</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <title>Туристичний маршрут</title>
+      <link>http://localhost:1313/blog/%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9-%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9-%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82/</guid>
+      <description>Організована туристична поїздка по маршруту:&#xA;Великі Лучки - старт Санаторій &amp;ldquo;Карпати&amp;rdquo; - палац графів Шенборнів с.Пилипець - водоспад Шипіт с.Синевирська Поляна - озеро Синевир с.Колочава - село-музей м.Хуст - долина нарцисів с.Поляна - мінеральні джерела с.Тур&amp;quot;я Поляна - водоспад Воєводино с.Кам&amp;quot;яниця - Невицький замок м.Ужгород - фініш Більш детально з ниткою маршруту можна ознайомитись за посиланням</description>
+    </item>
+    <item>
+      <title>Серія семінарів</title>
+      <link>http://localhost:1313/blog/%D1%81%D0%B5%D1%80%D1%96%D1%8F-%D1%81%D0%B5%D0%BC%D1%96%D0%BD%D0%B0%D1%80%D1%96%D0%B2/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/%D1%81%D0%B5%D1%80%D1%96%D1%8F-%D1%81%D0%B5%D0%BC%D1%96%D0%BD%D0%B0%D1%80%D1%96%D0%B2/</guid>
+      <description>У рамках проекту &amp;ldquo;Підвищення економічної активності та покращення туристичної привабливості Великолучківської територіальної громади шляхом заснування &amp;ldquo;Центру збору, переробки та реалізації дикоросів&amp;rdquo;, що реалізується за підтримки Спільної ініціативи Європейського Союзу та Програми розвитку ООН &amp;ldquo;Мери за економічне зростання&amp;rdquo;, ми нещодавно провели серію семінарів, де всі бажаючі могли: 1 Навчитися правильно збирати дикоросли рослини, не шкодячи природі. 2 Дізнатися про роботу бригад збору та про те, як до них приєднатися. 3 Отримати інформацію про особливості поведінки в горах та на рівнинах, де ростуть дикоросли.</description>
     </item>
   </channel>
 </rss>
